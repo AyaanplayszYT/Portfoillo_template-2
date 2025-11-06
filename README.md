@@ -22,3 +22,5 @@ Follow these steps to run the project locally:
 Your portfolio should now be running at:
 
 http://localhost:8080
+
+<img width="1920" height="1080" alt="Untitled design" src="https://github.com/user-attachments/assets/1ac7e11f-9c9d-44dc-a694-977fecff9ef6" />
